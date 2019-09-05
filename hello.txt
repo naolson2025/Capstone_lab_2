@@ -1,3 +1,4 @@
 "Hello" 
 "Bonjour" 
 "hola mi lamma Nick" 
+"hallo" 
